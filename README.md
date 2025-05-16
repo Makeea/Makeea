@@ -25,7 +25,7 @@ I don’t consider myself a programmer or developer — but GitHub seems to thin
 </p>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeea&theme=tokyonight&layout=compact" alt="Top Languages">
   </a>
 </div>
@@ -48,10 +48,10 @@ I don’t consider myself a programmer or developer — but GitHub seems to thin
 <h2 align="center">📫 Let’s Connect</h2>
 
 <p align="center">
-  <a href="https://thangs.com/designer/Makeea"><img src="https://img.shields.io/badge/Thangs-Profile-blue?logo=thangs&logoColor=white" /></a>
-  <a href="https://www.printables.com/@Makeea_30427"><img src="https://img.shields.io/badge/Printables-3D%20Models-orange?logo=prusa&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg"><img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white" /></a>
-  <a href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-Website-lightgrey" /></a>
+  <a target="_blank" href="https://thangs.com/designer/Makeea"><img src="https://img.shields.io/badge/Thangs-Profile-blue?logo=thangs&logoColor=white" /></a>
+  <a target="_blank" href="https://www.printables.com/@Makeea_30427"><img src="https://img.shields.io/badge/Printables-3D%20Models-orange?logo=prusa&logoColor=white" /></a>
+  <a target="_blank" href="https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg"><img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white" /></a>
+  <a target="_blank" href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-Website-lightgrey" /></a>
 </p>
 
 ---
