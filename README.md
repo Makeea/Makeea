@@ -1,42 +1,59 @@
-👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Makeea/Makeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>My name is Claire (she/her). It’s great to meet you!</strong></p>
 
-Here are some ideas to get you started:
+<p align="center">
+I’ve worked in IT infrastructure for over a decade, supporting clients across the medical, manufacturing, financial, fashion, and non-profit sectors.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Outside of work, I love prototyping with emerging technologies. I'm passionate about game design, VR development, 3D printing, hardware hacking, and electronics. My goal is to learn as much as I can — to save the world... and then take it over. 🛠️🌍🎮
+</p>
 
-<h1 align="center"> Hi there👋</h1>
+<p align="center">
+I don’t consider myself a programmer or developer — but GitHub seems to think otherwise.
+</p>
 
-<p align="center"><strong>Hi, my name is Claire. my pronouns are She/Her. Very nice to meet you.</strong><p>
+---
 
-<p align="center">I have worked in IT infrastructure for over a decade with clients and employers in various medical, manufacturing, financial, fashion, and non-profit sectors.</p>
-<p align="center">We enjoy prototyping with new technologies, Game Design, VR Development, 3D printing, hardware, and electronics. Our goal is to learn as much as possible to save the world and then take over the world.</p>
+<h2 align="center">🚀 GitHub Stats & Activity</h2>
 
-<p align="center">I'm not a programmer or developer. My GitHub likes to tell me otherwise.</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Makeea?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Makeea/scripts?style=social" alt="Repo Stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Makeea.Makeea" alt="Visitor Badge" />
+</p>
 
-<h2 align="center">Languages and Frameworks</h2>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeea&theme=tokyonight&layout=compact" alt="Top Languages">
+  </a>
+</div>
 
-<!--
-<p align="center">HTML5, CSS3, Javascript, TypeScript, React, React-Native, Node, SCSS, C++, Java, Lua, SQL, BASH</p>
+---
 
--->
+<h2 align="center">🛠️ Tools & Tech</h2>
 
-  <h2 align="center"> See what I've been working with here</h2>
-  
-<div align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeea&theme=tokyonight&layout=compact" />
-</a>
- </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/3D_Printing-orange?logo=octoprint&logoColor=white" />
+</p>
 
-<h1 align="center">Thanks For Visiting</h1>
+---
+
+<h2 align="center">📫 Let’s Connect</h2>
+
+<p align="center">
+  <a href="https://thangs.com/designer/Makeea"><img src="https://img.shields.io/badge/Thangs-Profile-blue?logo=thangs&logoColor=white" /></a>
+  <a href="https://www.printables.com/@Makeea_30427"><img src="https://img.shields.io/badge/Printables-3D%20Models-orange?logo=prusa&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg"><img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-Website-lightgrey" /></a>
+</p>
+
+---
+
+<h2 align="center">🙌 Thanks for Visiting!</h2>
