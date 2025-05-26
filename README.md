@@ -7,11 +7,11 @@ I’ve worked in IT infrastructure for over a decade, supporting clients across 
 </p>
 
 <p align="center">
-Outside of work, I love prototyping with emerging technologies. I'm passionate about game design, VR development, 3D printing, hardware hacking, and electronics. My goal is to learn as much as I can — to save the world... and then take it over. 🛠️🌍🎮
+Outside of work, I love prototyping with emerging technologies. I'm passionate about game design, VR development, 3D printing, hardware hacking, and electronics. My goal is to learn as much as I can to save the world... and then take it over. 🛠️🌍🎮
 </p>
 
 <p align="center">
-I don’t consider myself a programmer or developer — but GitHub seems to think otherwise.
+I don’t consider myself a programmer or developer, but GitHub seems to think otherwise.
 </p>
 
 ---
