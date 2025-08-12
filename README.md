@@ -35,12 +35,12 @@ I don’t consider myself a programmer or developer, but GitHub seems to think o
 <h2 align="center">🛠️ Tools & Tech</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/3D_Printing-orange?logo=octoprint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/3D_Printing-orange?logo=octoprint&logoColor=white" alt="3D Printing" />
 </p>
 
 ---
