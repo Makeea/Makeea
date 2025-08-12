@@ -48,10 +48,10 @@ I don’t consider myself a programmer or developer, but GitHub seems to think o
 <h2 align="center">📫 Let’s Connect</h2>
 
 <p align="center">
-  <a target="_blank" href="https://thangs.com/designer/Makeea"><img src="https://img.shields.io/badge/Thangs-Profile-blue?logo=thangs&logoColor=white" /></a>
-  <a target="_blank" href="https://www.printables.com/@Makeea_30427"><img src="https://img.shields.io/badge/Printables-3D%20Models-orange?logo=prusa&logoColor=white" /></a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg"><img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white" /></a>
-  <a target="_blank" href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-Website-lightgrey" /></a>
+  <a target="_blank" href="https://thangs.com/designer/Makeea"><img src="https://img.shields.io/badge/Thangs-Profile-blue?logo=thangs&logoColor=white" alt="Thangs Profile" /></a>
+  <a target="_blank" href="https://www.printables.com/@Makeea_30427"><img src="https://img.shields.io/badge/Printables-3D%20Models-orange?logo=prusa&logoColor=white" alt="Printables 3D Models" /></a>
+  <a target="_blank" href="https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg"><img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
+  <a target="_blank" href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-Website-lightgrey" alt="rosario.one Website" /></a>
 </p>
 
 ---
