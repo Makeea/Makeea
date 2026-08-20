@@ -1,59 +1,57 @@
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center"><strong>My name is Claire (she/her). It’s great to meet you!</strong></p>
-
-<p align="center">
-I’ve worked in IT infrastructure for over a decade, supporting clients across the medical, manufacturing, financial, fashion, and non-profit sectors.
-</p>
-
-<p align="center">
-Outside of work, I love prototyping with emerging technologies. I'm passionate about game design, VR development, 3D printing, hardware hacking, and electronics. My goal is to learn as much as I can to save the world... and then take it over. 🛠️🌍🎮
-</p>
-
-<p align="center">
-I don’t consider myself a programmer or developer, but GitHub seems to think otherwise.
-</p>
-
----
-
-<h2 align="center">🚀 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Makeea?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Makeea/scripts?style=social" alt="Repo Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Makeea.Makeea" alt="Visitor Badge" />
-</p>
-
 <div align="center">
-  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeea&theme=tokyonight&layout=compact" alt="Top Languages">
-  </a>
+
+# Claire Rosario
+
+### IT infrastructure, scripts, games, and things I make with my hands.
+
+<a href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-My_website-8b5cf6?style=for-the-badge" alt="Visit my website at rosario.one"></a>
+<a href="https://yibbly.studio"><img src="https://img.shields.io/badge/Yibbly_Studio-My_games-c084fc?style=for-the-badge" alt="Visit Yibbly Studio"></a>
+<a href="https://makeea.itch.io/"><img src="https://img.shields.io/badge/itch.io-Play_my_games-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play my games on itch.io"></a>
+
 </div>
 
----
+## Hey, I'm Claire 👋
 
-<h2 align="center">🛠️ Tools & Tech</h2>
+I grew up on the South Side of Williamsburg, Brooklyn. I learned early how to work with what you have, figure things out, and keep moving.
+
+I’ve spent more than ten years working in IT infrastructure for medical, manufacturing, financial, fashion, and nonprofit organizations. I keep systems running, automate the repetitive stuff, write things down, and stay with a problem until it is fixed.
+
+When I’m off the clock, I’m usually messing with game development, VR, 3D printers, electronics, or some piece of hardware I probably took apart before reading the manual.
+
+I still don’t really call myself a programmer. I just like making things work.
+
+## Some things I've made
+
+| Project | What it does | Tools |
+| :--- | :--- | :--- |
+| [**Godot Installer**](https://github.com/Makeea/godot-Installer) | Installs different Godot versions side by side on Windows, with shortcuts and offline docs. | PowerShell, Windows, Godot |
+| [**Outlook Notes Exporter**](https://github.com/Makeea/Outlook-Notes-Exporter) | Gets your notes out of classic Outlook and saves them as files you can actually keep. | PowerShell, Outlook COM, Windows |
+| [**Script Collection**](https://github.com/Makeea/scripts) | Scripts I use for Linux, Docker, Proxmox, backups, updates, and the usual daily problems. | Bash, PowerShell, Batch |
+| [**Chrono Courier**](https://makeea.itch.io/chrono-courier) | A browser game where you deliver packages across different points in history before the workday ends. | Turbo game engine |
+
+[More projects and build notes are on rosario.one.](https://rosario.one/projects/)
+
+## What I work with
+
+```text
+At work       Linux, Windows, networking, virtualization, automation
+For scripts   PowerShell, Bash, Python, JavaScript
+In the shop   3D printing, electronics, hardware, prototyping
+For fun       Godot, Rust, C#, game design, VR
+```
+
+These days I’m building useful tools, keeping notes on [rosario.one](https://rosario.one), and making games under the name [Yibbly Studio](https://yibbly.studio).
+
+## Other places to find me
+
+- 🎮 [Games and experiments on itch.io](https://makeea.itch.io/)
+- 🧊 [3D models on Printables](https://www.printables.com/@Makeea_30427)
+- 🛠️ [Designs on Thangs](https://thangs.com/designer/Makeea)
+- 📺 [Videos on YouTube](https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg)
+- 💼 [Work history on LinkedIn](https://www.linkedin.com/in/clairerosario/)
+
+---
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/3D_Printing-orange?logo=octoprint&logoColor=white" alt="3D Printing" />
+  Learn enough to save the world, then take it over. 🛠️🌍
 </p>
-
----
-
-<h2 align="center">📫 Let’s Connect</h2>
-
-<p align="center">
-  <a target="_blank" href="https://thangs.com/designer/Makeea"><img src="https://img.shields.io/badge/Thangs-Profile-blue?logo=thangs&logoColor=white" alt="Thangs Profile" /></a>
-  <a target="_blank" href="https://www.printables.com/@Makeea_30427"><img src="https://img.shields.io/badge/Printables-3D%20Models-orange?logo=prusa&logoColor=white" alt="Printables 3D Models" /></a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCqvmkz9L5ZWfvOvtjM-Kibg"><img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
-  <a target="_blank" href="https://rosario.one"><img src="https://img.shields.io/badge/rosario.one-Website-lightgrey" alt="rosario.one Website" /></a>
-</p>
-
----
-
-<h2 align="center">🙌 Thanks for Visiting!</h2>
