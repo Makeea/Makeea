@@ -18,11 +18,12 @@ When I’m off the clock, I make games, poke at VR, print odd little objects, wi
 
 I don’t consider myself a programmer or developer, but GitHub seems to think otherwise.
 
-## By the numbers
+## Current workbench
 
-| 13 years | 19 public repositories | 5 industries |
-| :---: | :---: | :---: |
-| IT infrastructure | Tools, games, sites, and experiments | Medical, manufacturing, financial, fashion, and nonprofit |
+- 🔧 **Building:** A better Windows setup for [Godot](https://github.com/Makeea/godot-Installer)
+- 🧰 **Fixing:** The scripts I use for servers, updates, backups, and daily problems
+- 🎮 **Playing with:** Small game ideas under [Yibbly Studio](https://yibbly.studio)
+- 🖨️ **Making:** Useful parts, odd prints, and whatever solves today’s problem
 
 ## GitHub activity
 
@@ -40,6 +41,22 @@ I don’t consider myself a programmer or developer, but GitHub seems to think o
 | [**Chrono Courier**](https://makeea.itch.io/chrono-courier) | A browser game where you deliver packages across different points in history before the workday ends. | Turbo game engine |
 
 [More projects and build notes are on rosario.one.](https://rosario.one/projects/)
+
+## Side quests
+
+- [**WinButler**](https://github.com/Makeea/WinButler) keeps Windows, winget, and Chocolatey updates moving.
+- [**Flipper Lab**](https://github.com/Makeea/Flipper-Lab) holds my Flipper Zero experiments.
+- [**LED Sound Hat**](https://github.com/Makeea/LED-Sound-Hat) mixes LEDs, sound, and wearable hardware.
+- [**Untitled Sock Dating Simulator**](https://github.com/Makeea/Untitled-Sock-Dating-Simulator) is exactly what the name says.
+
+## The project drawer
+
+| Status | Project |
+| :--- | :--- |
+| Needs a pit stop | [AR Racing Game](https://github.com/Makeea/ARRacingGame) |
+| Parked at the bench | [OctoPrint Desktop](https://github.com/Makeea/OctoPrint-Desktop) |
+| Waiting on another server | [MultiServ](https://github.com/Makeea/MultiServ) |
+| Box of wires | [Arduino Projects](https://github.com/Makeea/Arduino-Projects) |
 
 ## What I work with
 
