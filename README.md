@@ -18,6 +18,18 @@ When I’m off the clock, I make games, poke at VR, print odd little objects, wi
 
 I don’t consider myself a programmer or developer, but GitHub seems to think otherwise.
 
+## By the numbers
+
+| 13 years | 19 public repositories | 5 industries |
+| :---: | :---: | :---: |
+| IT infrastructure | Tools, games, sites, and experiments | Medical, manufacturing, financial, fashion, and nonprofit |
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Makeea&theme=tokyonight" alt="GitHub activity for Makeea" width="700">
+</p>
+
 ## Some things I've made
 
 | Project | What it does | Tools |
