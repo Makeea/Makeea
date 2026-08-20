@@ -12,20 +12,18 @@
 
 ## Hey, I'm Claire 👋
 
-I grew up on the South Side of Williamsburg, Brooklyn. I learned early how to work with what you have, figure things out, and keep moving.
+I’ve spent 13 years working in IT infrastructure for medical, manufacturing, financial, fashion, and nonprofit organizations. I keep systems running, automate repetitive work, document the setup, and stay with a problem until I fix it.
 
-I’ve spent more than ten years working in IT infrastructure for medical, manufacturing, financial, fashion, and nonprofit organizations. I keep systems running, automate the repetitive stuff, write things down, and stay with a problem until it is fixed.
+When I’m off the clock, I make games, poke at VR, print odd little objects, wire up electronics, and take apart hardware before reading the manual. Some projects solve a problem. Others exist because the idea made me laugh.
 
-When I’m off the clock, I’m usually messing with game development, VR, 3D printers, electronics, or some piece of hardware I probably took apart before reading the manual.
-
-I still don’t really call myself a programmer. I just like making things work.
+I don’t consider myself a programmer or developer, but GitHub seems to think otherwise.
 
 ## Some things I've made
 
 | Project | What it does | Tools |
 | :--- | :--- | :--- |
 | [**Godot Installer**](https://github.com/Makeea/godot-Installer) | Installs different Godot versions side by side on Windows, with shortcuts and offline docs. | PowerShell, Windows, Godot |
-| [**Outlook Notes Exporter**](https://github.com/Makeea/Outlook-Notes-Exporter) | Gets your notes out of classic Outlook and saves them as files you can actually keep. | PowerShell, Outlook COM, Windows |
+| [**Outlook Notes Exporter**](https://github.com/Makeea/Outlook-Notes-Exporter) | Gets your notes out of classic Outlook and saves them as Markdown or text files you own. | PowerShell, Outlook COM, Windows |
 | [**Script Collection**](https://github.com/Makeea/scripts) | Scripts I use for Linux, Docker, Proxmox, backups, updates, and the usual daily problems. | Bash, PowerShell, Batch |
 | [**Chrono Courier**](https://makeea.itch.io/chrono-courier) | A browser game where you deliver packages across different points in history before the workday ends. | Turbo game engine |
 
